@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vason4
-- 👀 I’m interested in data
-- 🌱 I’m currently learning dbt
-- 💞️ I’m looking to collaborate on all sorts of data analytics engineering.
-- 📫 How to reach me ...
+- 👀 I’m interested in insights & development
+- 🌱 I’m currently learning non-technical stuff 😛
+- 💞️ I’m looking to create a newer & revolutionary working environment.
+- 📫 How to reach me - Slack/ Teams
 
 <!---
 vason4/vason4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
